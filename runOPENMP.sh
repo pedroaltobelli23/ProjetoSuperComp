@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Certifique-se de que o seu executável está no mesmo diretório ou ajuste o caminho conforme necessário
-EXECUTAVEL="../../findclickOPENMP"
-
+EXECUTAVEL="../../files/findclickOPENMP"
+FOLDER="teste"
 # Compila em openMP
-g++ -g -Wall -fopenmp -o findclickOPENMP findclickOPENMP.cpp
+g++ -g -Wall -fopenmp -o files/findclickOPENMP files/findclickOPENMP.cpp
 
 # Navegue até o diretório contendo os grafos
 cd ClusterScripts/grafos
@@ -13,7 +13,7 @@ cd ClusterScripts/grafos
 for arquivo in grafo*.txt; do
     # Verifique se o arquivo existe antes de executar o programa
     if [ -e "$arquivo" ]; then
-        saida_arquivo="../outputs/OPENMP/OPENMP${arquivo/grafo/out}"
+        saida_arquivo="../outputs/$FOLDER/OPENMP${arquivo/grafo/out}"
         echo "Processando $arquivo... Saída em $saida_arquivo"
         $EXECUTAVEL "$arquivo" > "$saida_arquivo" 2>&1
     else
