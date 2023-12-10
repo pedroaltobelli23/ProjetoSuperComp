@@ -1,0 +1,3 @@
+30 35 31 29 25 22 10 8 7 19 
+Work took 84.248817 seconds for numvertices=35
+Codigo OPENMP 

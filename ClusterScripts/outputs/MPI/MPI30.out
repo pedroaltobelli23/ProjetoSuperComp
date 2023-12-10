@@ -1,0 +1,38 @@
+Output do job 490
+[compute00.hpcnet:03179] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03179] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03191] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03190] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03192] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02803] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02804] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02802] pmix_mca_base_component_repository_open: unable to open mca_pnet_opa: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03192] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03190] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03191] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02804] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02803] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02802] mca_base_component_repository_open: unable to open mca_oob_ud: libosmcomp.so.3: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03191] mca_base_component_repository_open: unable to open mca_btl_openib: librdmacm.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03190] mca_base_component_repository_open: unable to open mca_btl_openib: librdmacm.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03192] mca_base_component_repository_open: unable to open mca_btl_openib: librdmacm.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02803] mca_base_component_repository_open: unable to open mca_btl_openib: librdmacm.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02804] mca_base_component_repository_open: unable to open mca_btl_openib: librdmacm.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02802] mca_base_component_repository_open: unable to open mca_btl_openib: librdmacm.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03191] mca_base_component_repository_open: unable to open mca_mtl_psm: libpsm_infinipath.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03190] mca_base_component_repository_open: unable to open mca_mtl_psm: libpsm_infinipath.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03192] mca_base_component_repository_open: unable to open mca_mtl_psm: libpsm_infinipath.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03190] mca_base_component_repository_open: unable to open mca_mtl_psm2: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03192] mca_base_component_repository_open: unable to open mca_mtl_psm2: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute00.hpcnet:03191] mca_base_component_repository_open: unable to open mca_mtl_psm2: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02802] mca_base_component_repository_open: unable to open mca_mtl_psm: libpsm_infinipath.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02804] mca_base_component_repository_open: unable to open mca_mtl_psm: libpsm_infinipath.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02803] mca_base_component_repository_open: unable to open mca_mtl_psm: libpsm_infinipath.so.1: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02802] mca_base_component_repository_open: unable to open mca_mtl_psm2: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02803] mca_base_component_repository_open: unable to open mca_mtl_psm2: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+[compute01.hpcnet:02804] mca_base_component_repository_open: unable to open mca_mtl_psm2: libpsm2.so.2: cannot open shared object file: No such file or directory (ignored)
+Tempo de execução: 124.7 segundos.
+Tamanho do grafo: 30
+Codigo MPI 
+Resposta:  
+25 3 4 6 8 9 10 16 22 24 29 

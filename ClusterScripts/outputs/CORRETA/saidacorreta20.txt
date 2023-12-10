@@ -1,0 +1,3 @@
+Cliques maximais encontradas:
+['1', '12', '13', '16', '17', '2', '20', '3', '5']
+Clique máxima encontrada: ['3', '20', '17', '2', '1', '12', '5', '13', '16']

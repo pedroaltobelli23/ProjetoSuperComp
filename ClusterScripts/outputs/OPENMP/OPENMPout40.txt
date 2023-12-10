@@ -1,0 +1,3 @@
+16 40 37 26 22 14 13 10 25 
+Work took 364.018446 seconds for numvertices=40
+Codigo OPENMP 

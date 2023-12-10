@@ -1,0 +1,3 @@
+17 1 2 3 5 12 13 16 20 
+Work took 1.750416 seconds for numvertices=20
+Codigo OPENMP 
